@@ -1,4 +1,4 @@
-# ut-azure-blobstorage-directory-to-conatiner-upload-linux
+# ut-azure-blobstorage-directory-to-container-upload-linux
 # Abstract: 
 
 The here described Universal Tasks uploads a local Windows or Linux directory to an Azure Blob Storage Container.  As a result, you can 
@@ -7,8 +7,8 @@ cloud computer) file transfer solution.
 
 # 1. Disclaimer:
 
-No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and
-the related Universal Task is on your own risk.
+No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document 
+and the related Universal Task is on your own risk.
 
 Before using this task in a production system, please perform extensive testing.
 
