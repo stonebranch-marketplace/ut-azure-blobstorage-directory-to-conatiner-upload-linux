@@ -153,22 +153,26 @@ Please follow the instructions below for your platform. You will need to run the
 
 Go to “All Tasks” and load via the Import functionality the Universal Task configuration into the Controller. 
 
-Image 1
-![](images/image1.PNG)
+Image 1 
+
+![](images/image1.png)
 
 Image 2
-![](images/image2.PNG)
+
+![](images/image2.png)
 
 # 5.	Universal Task Configuration
 **1.	Activate: Resolvable Credentials in Universal Automation Center:**
 
 Image 3
-![](images/image3.PNG)
+
+![](images/image3.png)
 
 **2.	Fill Out the Universal Task:**
 
 Image 4
-![](images/image4.PNG)
+
+![](images/image4.png)
 
 In example above the local directory /home/opswise/demo/out/salesdata is uploaded to the Azure container test-input.
 
@@ -176,27 +180,33 @@ In example above the local directory /home/opswise/demo/out/salesdata is uploade
 In the example below the azure_account credentials are shown:
 
 Image 5
-![](images/image5.PNG)
+
+![](images/image5.png)
 
 # 6.	Universal Tasks for Azure Blob Storage
 The following chapter describes the provided Azure directory upload Universal Task.
 
 Image 6
-![](images/image6.PNG)
+
+![](images/image6.png)
 
 **Task Screenshot:**
+
 Image 7
-![](images/image7.PNG)
+
+![](images/image7.png)
 
 **Field Description:**
 Image 8
-![](images/image8.PNG)
+
+![](images/image8.png)
 
 # 7.	Test Cases
 The following basic test cases have been performed:
 
 Image 9
-![](images/image9.PNG)
+
+![](images/image9.png)
 
 # 8.	Document References
 There are no document references.
